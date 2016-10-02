@@ -10,3 +10,8 @@ DLLs needed:
   opencv_world310.dll
   
   opencv_world310d.dll
+
+
+![1](1.png)
+
+![2](2.png)
